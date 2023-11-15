@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #f7f7f7;
+}
+a {
+    text-decoration: underline;
+}
+
+th,
+td {
+    text-align: left;
+}
+
+/** Cards */
+.cards > h2 + p {
+    color: black;
+}
+
+.cards > p {
+    font-size: 1rem;
+}
+
+/** Custom Button */
+.cbutton {
+    font-weight: 600;
+    font-size: 1rem;
+    border-radius: 999px;
+    color: white;
+}
+
+/** Table */
+.table > table,
+.table th,
+.table td {
+    border-color: black;
+    border: 1px solid;
+    padding: 10px;
+    font-size: 1.2rem;
+}
+
+.table-color {
+    background-color: #460073;
+    color: white;
+}
+
+.table-font {
+    font-size: 1.2rem;
+}
+
+/** Toast */

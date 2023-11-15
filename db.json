@@ -1,0 +1,76 @@
+{
+  "contacts": [
+    {
+      "name": "Jay Contreras",
+      "phone": "09171234567",
+      "email": "kamikazeegod@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Jason Astete",
+      "phone": "09026002222",
+      "email": "jason_the_menace@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Mikki Jill",
+      "phone": "09207002121",
+      "email": "keyboardista@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Jose Luis Linao",
+      "phone": "09171234657",
+      "email": "kamikazeeprince@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Allan Burdeos",
+      "phone": "09129321821",
+      "email": "allanburdeos1@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Mark Estacio",
+      "phone": "09147281024",
+      "email": "mark_estacio@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Juanelli Lubiano",
+      "phone": "09782175621",
+      "email": "kamikazeeprincess@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Led Tuyay",
+      "phone": "09182319271",
+      "email": "led_zt@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Sep Rono",
+      "phone": "09271821032",
+      "email": "sep_of_typecast@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Ryan Christopher Balidoy",
+      "phone": "09667218920",
+      "email": "rybalidoy123@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "Mark Tius",
+      "phone": "09781233142",
+      "email": "marktiu@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "Estorbo De Guzman",
+      "phone": "09172917211",
+      "email": "estorbo.dg@gmail.com",
+      "id": 13
+    }
+  ]
+}
